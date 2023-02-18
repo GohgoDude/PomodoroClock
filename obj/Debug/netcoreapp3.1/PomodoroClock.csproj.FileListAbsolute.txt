@@ -1,0 +1,14 @@
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.exe
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.deps.json
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.runtimeconfig.json
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.runtimeconfig.dev.json
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.dll
+C:\Users\Gohgo\source\repos\PomodoroClock\bin\Debug\netcoreapp3.1\PomodoroClock.pdb
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.csproj.AssemblyReference.cache
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.AssemblyInfoInputs.cache
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.AssemblyInfo.cs
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.csproj.CoreCompileInputs.cache
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.dll
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.pdb
+C:\Users\Gohgo\source\repos\PomodoroClock\obj\Debug\netcoreapp3.1\PomodoroClock.genruntimeconfig.cache
